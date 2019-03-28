@@ -1,0 +1,47 @@
+.row{
+  width: 100%;
+  height: 300px;
+}
+
+.col{
+  height: 100%;
+  width: 49%;
+  border: 0px solid black;
+  display: inline-block;
+  float: left;
+}
+body{
+  font-style: italic;
+  background-color: #8F754D
+}
+
+p{
+  font-size: 22px
+}
+
+#scratchrow{
+  height: 500px;
+}
+
+#name{
+
+}
+
+#box1{
+  width: 29%;
+}
+#box2{
+  width: 69%;
+}
+#box3{
+  width: 39%;
+}
+#box4{
+  width: 60%;
+}
+#box5{
+  width: 29%;
+}
+#box6{
+  width: 65%;
+}
